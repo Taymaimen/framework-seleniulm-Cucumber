@@ -1,8 +1,8 @@
-@connexion2
+@formulaire
 Feature: Patient - FullName
 ETQ User je souhaite de remplir le nom du patient
 
-@cnx2
+@form
 Scenario: Patient - FullName
 Given Open patient application
 When Set FirstName
